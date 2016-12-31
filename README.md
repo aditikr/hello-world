@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Aditi here. I like python and I'm currently learning java + android studio 
+
